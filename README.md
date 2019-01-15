@@ -8,7 +8,9 @@ Watson Visual Recognition service lets you quickly and accurately tag, classify 
 
 Finally, we will look at a variety of use cases and code patterns where Watson Visual Recognition can be successfully used add cognitive power to your applications.
 
-#### Prerequisites curiosity and laptop to follow along. No downloads needed.
+##### Prerequisites 
+
+Curiosity and laptop to follow along. No downloads needed.
 
 ## Speaker: 
 
